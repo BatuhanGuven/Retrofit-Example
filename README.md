@@ -1,7 +1,7 @@
-
+Here's a `README.md` file for your Retrofit example project. It provides an overview of the project, its setup, and usage instructions.
 
 ```markdown
-# Retrofit Example - Mars Photos App
+# Retrofit Example
 
 This is an example Android project demonstrating the use of Retrofit for networking and Jetpack Compose for UI in a Kotlin application. The app fetches photos from a remote server and displays them in a grid format.
 
@@ -57,3 +57,24 @@ This is an example Android project demonstrating the use of Retrofit for network
 ## API Endpoints
 
 - **GET `/photos`**: Fetches a list of photos. The response is a list of `PhotoData` objects.
+
+## Troubleshooting
+
+- **Network Issues**: Ensure that your device or emulator has internet access.
+- **Build Errors**: Verify that you have all required dependencies and sync Gradle.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Feel free to fork the repository and submit pull requests. For significant changes or feature requests, please open an issue to discuss.
+
+## Contact
+
+For questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+
+```
+
+Make sure to replace `https://github.com/yourusername/retrofit-example.git` and `your-email@example.com` with your actual repository URL and contact email.
